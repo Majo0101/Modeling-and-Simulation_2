@@ -17,13 +17,13 @@ Ensure you have Python 3 installed on your machine, and the script depends on a 
 3. Run the script using Python
 
 ## Example Output
-
+```
 step 0: i
   transporter1: [step 10] __________________________ o 
   worktool(a): [empty]
   worktool(b): [empty]
   transporter2: [empty] __________________________
-
+```
 
 ## Development
 This script was developed to demonstrate control logic in an industrial setting. It can be modified to include more devices, enhance logic, or integrate with actual hardware controls.
